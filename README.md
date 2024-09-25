@@ -21,7 +21,7 @@
 ---
 
 ## GitHub Stats
-![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshaDubey&show_icons=true&theme=radical)
+![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSharma&show_icons=true&theme=radical)
 
 ## Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaDubey&layout=compact&theme=radical)
