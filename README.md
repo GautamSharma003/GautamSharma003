@@ -1,21 +1,6 @@
 
-### Featured Projects
-- [Chat_Bot]() - An online doctor consultation platform using .NET Core.
-- [CoffeeShopWebsite](https://github.com/GautamSharma003/CoffeeShopWebsite) - A web app that helps generate professional resumes.
-- [Portfolio](https://github.com/GautamSharma003/PortfolioGS) - My personal portfolio showcasing my projects and skills.
-
-
-## GitHub Stats
-![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSharma003&show_icons=true&theme=radical)
-
-## Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSharma003&layout=compact&theme=radical)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 <!--<p align="center">
-  <img src="https://github.com/narayan954/narayan954/blob/main/gitartwork.svg" alt="gitartwork">
+  <img src="https://github.com/GautamSharma003/GautamSharma003/blob/main/gitartwork.svg" alt="gitartwork">
 </p> -->
 <pre>
 -----------------------------------------------------------------------------
