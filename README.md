@@ -1,14 +1,11 @@
 # Gautam Sharma
-
-![status](https://img.shields.io/badge/Status-Coding%20in%20Progress-brightgreen)
-
-**Keep it Simple**
-
+---
+- **Me**: Gautam Sharma
 - **Languages**: Java, C#, JavaScript, Python, HTML, CSS
 - **Frameworks**: .NET Core, React, Tailwind CSS, MySQL
 - **Cloud**: Microsoft Azure
 - **Tools**: VS Code, Git, GitHub
-
+---
 ### Featured Projects
 - [Chat_Bot](https://github.com/GautamSharma003/Chat_Bot) - An online doctor consultation platform using .NET Core.
 - [CoffeeShopWebsite](https://github.com/GautamSharma003/CoffeeShopWebsite) - A web app that helps generate professional resumes.
