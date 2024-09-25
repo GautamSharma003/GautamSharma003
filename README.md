@@ -1,21 +1,19 @@
 # Gautam Sharma
----
+------------------------------------------------------------------------------------------------
 - **Me**: Gautam Sharma
 - **Languages**: Java, C#, JavaScript, Python, HTML, CSS
 - **Frameworks**: .NET Core, React, Tailwind CSS, MySQL
 - **Cloud**: Microsoft Azure
 - **Tools**: VS Code, Git, GitHub
----
+------------------------------------------------------------------------------------------------
+### Let's Get in Touch:
+[LinkedIn](https://www.linkedin.com/in/gautam-sharma-b13272220/) • [Email](gautamsharma0831@gmail.com)
+
 ### Featured Projects
 - [Chat_Bot](https://github.com/GautamSharma003/Chat_Bot) - An online doctor consultation platform using .NET Core.
 - [CoffeeShopWebsite](https://github.com/GautamSharma003/CoffeeShopWebsite) - A web app that helps generate professional resumes.
 - [Portfolio](https://github.com/GautamSharma003/PortfolioGS) - My personal portfolio showcasing my projects and skills.
 
-### Additional Links
-- [Portfolio Site](https://gautamsharma003.github.io/PortfolioGS/)
-- [LinkedIn](https://www.linkedin.com/in/gautam-sharma-b13272220/)
-
----
 
 ## GitHub Stats
 ![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSharma003&show_icons=true&theme=radical)
@@ -26,7 +24,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-[![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=GautamSharma003&theme=dracula)](https://github.com/GautamSharma003)
 
 
 <!--
