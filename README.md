@@ -19,7 +19,7 @@
 <a href="https://github.com/GautamSharma003/Chat_Bot">Chat_Bot<a> . <a href="https://github.com/GautamSharma003/CoffeeShopWebsite">CoffeeShopWebsite</a>
   
 <b>Additionals:</b>
-<a href="https://github.com/GautamSharma003/PortfolioGS">Portfolio<a>
+<a href="https://portfolio-gs-tau.vercel.app/">Portfolio<a>
 
 <b>Miscellaneous:</b>
 Someday you are going to see all my public repos with beautiful READMEs. Trust me... 🤡
