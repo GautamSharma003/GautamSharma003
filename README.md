@@ -24,21 +24,12 @@
 ![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GautamSharma&show_icons=true&theme=radical)
 
 ## Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaDubey&layout=compact&theme=radical)
-
----
-
-_Someday you will see all my repos filled with beautiful READMEs!_
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GautamSharma&layout=compact&theme=radical)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshaDubey&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaDubey&layout=compact&theme=radical)
-
-[![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=VarshaDubey&theme=dracula)](https://github.com/VarshaDubey)
+[![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=GautamSharma&theme=dracula)](https://github.com/GautamSharma003)
 
 
 <!--
