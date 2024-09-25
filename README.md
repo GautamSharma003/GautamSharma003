@@ -10,18 +10,18 @@
 - **Tools**: VS Code, Git, GitHub
 
 ### Featured Projects
-- [DoctorOnDemand](https://github.com/VarshaDubey/DoctorOnDemand) - An online doctor consultation platform using .NET Core.
-- [ResumeBuilder](https://github.com/VarshaDubey/ResumeBuilder) - A web app that helps generate professional resumes.
-- [Portfolio](https://github.com/VarshaDubey/Portfolio) - My personal portfolio showcasing my projects and skills.
+- [Chat_Bot](https://github.com/GautamSharma003/Chat_Bot) - An online doctor consultation platform using .NET Core.
+- [CoffeeShopWebsite](https://github.com/GautamSharma003/CoffeeShopWebsite) - A web app that helps generate professional resumes.
+- [Portfolio](https://github.com/GautamSharma003/PortfolioGS) - My personal portfolio showcasing my projects and skills.
 
 ### Additional Links
-- [Portfolio Site](https://VarshaDubey.github.io)
-- [LinkedIn](https://www.linkedin.com/in/VarshaDubey)
+- [Portfolio Site](https://gautamsharma003.github.io/PortfolioGS/)
+- [LinkedIn](https://www.linkedin.com/in/gautam-sharma-b13272220/)
 
 ---
 
 ## GitHub Stats
-![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshaDubey&show_icons=true&theme=radical)
+![Gautam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshaDubey&show_icons=true&theme=radical)
 
 ## Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaDubey&layout=compact&theme=radical)
@@ -38,7 +38,7 @@ _Someday you will see all my repos filled with beautiful READMEs!_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaDubey&layout=compact&theme=radical)
 
-[![Varsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=VarshaDubey&theme=dracula)](https://github.com/VarshaDubey)
+[![Gautam's github activity graph](https://activity-graph.herokuapp.com/graph?username=VarshaDubey&theme=dracula)](https://github.com/VarshaDubey)
 
 
 <!--
