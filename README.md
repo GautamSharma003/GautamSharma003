@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------
 <b>Me         :</b>  <b>Gautam Sharma</b>
 <b>About      :</b>  Engineer, Developer
-<b>Languages  :</b>  C#, Java, Javascript, SQL
+<b>Languages  :</b>  C#, Java, Javascript, SQL, PHP
 <b>Frameworks :</b>  React, Spring, Hibernate and RestAPI
 <b>Interests  :</b>  Web-Development
 <b>Education  :</b>  <a href="https://dvsiet.dewaninstitutes.com/">Dvsiet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
