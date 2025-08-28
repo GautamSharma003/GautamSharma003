@@ -5,10 +5,9 @@
 <pre>
 -----------------------------------------------------------------------------
 <b>Me         :</b>  <b>Gautam Sharma</b>
-<b>About      :</b>  Engineer, Developer
-<b>Languages  :</b>  C#, Java, Javascript, SQL, PHP
-<b>Frameworks :</b>  React, Spring, Hibernate and RestAPI
-<b>Interests  :</b>  Web-Development
+<b>About      :</b>  Salesforce Developer
+<b>Languages  :</b>  Apex, Java, Javascript
+<b>Interests  :</b>  Salesforce 
 <b>Education  :</b>  <a href="https://dvsiet.dewaninstitutes.com/">Dvsiet</a> <b> B.Tech (Computer Science and Engineering) (2024)</b>
 -----------------------------------------------------------------------------
 
